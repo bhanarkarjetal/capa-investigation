@@ -68,10 +68,10 @@ Die genannten Anforderungen dienen als fachliche Grundlage für die Bewertung de
 Der vollständige CAPA-Untersuchungsbericht steht in deutscher und englischer Sprache zur Verfügung.
 
 **Deutsch:**
-[CAPA-Untersuchungsbericht – Deutsche Version](capa-bericht/CAPA-MF-1529-MFG-air-vent-leakage.md)
+[CAPA-Untersuchungsbericht – Deutsche Version](capa-bericht/CAPA-MF-1529-Bericht.md)
 
 **English:**
-[CAPA Investigation Report – English Version](capa-report/CAPA-MF-1529-MFG-air-vent-leakage.md)
+[CAPA Investigation Report – English Version](capa-report/CAPA-MF-1529-report.md)
 
 ## Repository-Struktur
 
@@ -82,7 +82,7 @@ capa-investigation/
 ├── README_EN.md
 │
 ├── capa-report/
-│   └── CAPA-MF-1529-MFG-air-vent-leakage.md
+│   └── CAPA-MF-1529.md
 │
 └── capa-bericht/
     └── CAPA-MF-1529-MFG-air-vent-leakage.md

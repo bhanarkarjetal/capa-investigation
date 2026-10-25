@@ -17,7 +17,7 @@
 | Product Code | MF-INF-SVIF-200 |
 | Affected Lot Range | MF-2023-F036 to MF-2023-F071 (36 lots, ~360,000 units) |
 | Detection Source | Post-Market Surveillance - Customer Complaints |
-| Linked Complaint Records | CC-2024-0034, CC-2024-0043, CC-2024-0059, CC-2024-0079, CC-2024-0094 |  
+| Linked Complaint Records | CC-2024-0034, CC-2024-0043, CC-2024-0059, CC-2024-0079, CC-2024-0094 |
 | Regulatory Standards | ISO 14971, EU MDR, ISO 13485:2016 (Clause 7.5.6, Clause 8.5.2, Clause 8.5.3) |
 
 ---
@@ -44,7 +44,7 @@ The products associated with the complaints were traced to lots MF-2023-F036 to 
 - The release-time bubble-point test record, performed on an AQL sample (5 units per 10,000 units), did not detect the defect
 - Failures were detected only during retest of retained samples from the affected lot, which was performed as a part of the complaint investigation (05.02.2024)
 
-**Nonconformity declaration:** 
+**Nonconformity declaration:**
 
 The sterile venting inline filter membrane on lots MF-2023-F036 to MF-2023-F071 fails to maintain the barrier integrity under normal clinical operating conditions. The defect compromises the filter's intended function of permitting controlled air venting and preventing fluid passage and microbial ingress.
 
