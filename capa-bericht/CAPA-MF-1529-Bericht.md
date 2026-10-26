@@ -114,7 +114,7 @@ Ziel ist es, eine weitere Anwendung potenziell fehlerhafter Produkte bei Patient
 
 **Durchgeführte Eindämmungsmaßnahmen**
 
-| **Nr** | **Maßnahme** | **Verantwortliche** Person**| **Status** | **Abschlussdatum** |
+| **Nr.** | **Maßnahme** | **Verantwortliche** Person**| **Status** | **Abschlussdatum** |
 |-------|------------|----------|------------|--------------------|
 |1| Produktion an der Ultraschallschweißanlage UW-02 (Sonotrode SN-UW-02-117) stoppen und die Anlage gemäß SOP-MFG-014 gegen weitere Nutzung sichern| Carlos Rivera, Produktionsleiter | Abgeschlossen | 13.02.2024 |
 |2| Alle vorhandenen Bestände der Chargen MF-2023-F036 bis MF-2023-F07 im Zentrallager sperren und mit einer Kennzeichnung für eingeschränkten Zugriff versehen. | Carlos Rivera, Produktionsleiter | Abgeschlossen | 14.02.2024 |
@@ -201,3 +201,150 @@ Die Untersuchung bestätigte somit, dass die Nichtkonformität ausschließlich d
 
 Eine Ausbreitung der Nichtkonformität auf andere Produktionslinien derselben Ultrascheißplattform wurde nicht festgestellt. 
 
+## 7. Ursachenanalyse
+
+Nach Abschluss der Qualitätsuntersuchung QI-2024-019 führte das Untersuchungsteam zwischen dem 26.03.2024 und dem 29.03.2024 eine strukturierte Ursachenanalyse durch.
+
+Dabei wurde die **5-Why-Methode** angewendet. Die Ergebnisse wurden durch Versuche zur Reproduktion des Fehlers sowie durch Versuche nach Entfernung der Fehlerursache überprüft. Auf dieser Grundlage wurde die Hauptursache eindeutig dokumentiert und offiziell bestätigt. Die in den folgenden Abschnitten beschriebenen Korrektur- und Vorbeugungsmaßnahmen wurden auf Basis dieser Ergebnisse festgelegt. 
+
+**Beginn der Ursachenanalyse**: 26.03.2024 durch Thomas Becker, Qualitätsingenieur.
+
+### 7.1 5-Why-Analyse
+
+**Problembeschreibung**
+
+Die hydrophobe Membran des sterilen Inline-Entlüftungsfilters (Produktionscode: MF-INF-SVIF-200) weist mikroskopisch kleine Durchstichstellen im Submillimeterbereich am inneren Rand der Ultraschallschweißnaht auf. Diese führen zu Flüssigkeitsaustritten und beeinträchtigen die Integrität der Sterilbarriere.
+
+| **Schritt** | **Fragestellung** | **Untersuchungsergebnis** |
+|---|---|---|
+| Warum 1|Warum sind mikroskopisch kleine Durchstichstellen in der Membran entstanden?|Am inneren Rand der Ultraschallschweißnaht entstand eine lokal begrenzte Überdruckzone im Submillimeterbereich. |
+|Warum 2| Warum entstand diese lokal begrenzte Überdruckzone?|Ein ausgehärteter thermoplastischer Partikel hatte sich auf der Kontaktfläche der Sonotrode festgesetzt. Dadurch entstand ein punktuell erhöhter Druck, obwohl der Gesamtdruck auf der Kontaktfläche innerhalb der festgelegten Grenzwerte lag.|
+|Warum 3| Warum befand sich der Partikel auf der Kontaktfläche der Sonotrode und wurde nicht erkannt?|Die Sonotrode wurde 36 Tage lang kontinuierlich betrieben, ohne dass zwischenzeitlich eine Inspektion der Kontaktfläche durchgeführt wurde. Während dieses Zeitraums sammelten sich Materialrückstände an, die nicht erkannt wurden.|
+|Warum 4| Warum wurde der festsitzende Partikel  während des betroffenen Produktionszeitraums nicht erkannt?|Der Wartungsplan sah zwei Inspektionsstufen vor: eine monatliche Sichtprüfung mit manueller Reinigung unter Produktionsbedingungen sowie eine vierteljährliche gründliche Inspektion mit optischer Mikroskopie unter kontrollierten Bedingungen. Die monatliche Sichtprüfung und Reinigung dienten dazu, oberflächliche Verschmutzungen zu entfernen und den allgemeinen Zustand zu kontrollieren. Der fest in der Sonotrodenoberfläche verankerte Partikel konnte dadurch jedoch nicht entfernt werden. Die nächste vierteljährliche Inspektion war erst nach Abschluss des betroffenen Produktionszeitraums vorgesehen.|
+|Warum 5| Warum war die vierteljährliche Inspektion zu spät geplant, um den Partikel während des betroffenen Produktionszeitraums zu erkennen?|Das vierteljährliche Prüfintervall wurde bei der Produktionseinführung anhand der damaligen Produktionsmenge festgelegt. Bis 2023 war das Produktionsvolumen auf das 1,5-Fache gestiegen. Das Prüfintervall wurde jedoch weiterhin nach festen Kalenderterminen geplant und nicht an die tatsächlich durchgeführte Anzahl der Schweißzyklen angepasst.|
+
+### 7.2 Zusammenfassung der Hauptursache
+
+Das Intervall für die vierteljährliche gründliche Inspektion der Sonotrode wurde bei der Produktionsführung im Jahr 2021 festgelegt. Dabei wurde die damalige Produktionsmenge als Grundlage verwendet.
+
+Die Inspektionen erfolgten nach festen Kalenderterminen und nicht auf Basis der tatsächlich durchgeführten Schweißzyklen.
+
+Bis 2023 stieg das Produktionsvolumen auf das 1,5-Fache. Dadurch erhöhte sich auch die Anzahl der Schweißzyklen zwischen zwei gründlichen Inspektionen entsprechend. Das zeitlich festgelegte Prüfintervall blieb jedoch unverändert.
+
+Die monatlichen Sichtprüfungen und manuellen Reinigungen wurden gemäß den festgelegten Vorgaben durchgeführt. Diese Maßnahmen waren jedoch hauptsächlich für die Erkennung und Entfernung oberflächlicher Verschmutzungen vorgesehen. Mikroskopisch kleine, fest eingebettete Partikel im Submillimeterbereich konnten mit diesen Prüfmethoden nicht zuverlässig erkannt werden. 
+
+Durch die Kombination aus einem kalenderbasierten Prüfintervall und einer nicht an die gestiegene Produktionsmenge angepassten Inspektionshäufigkeit konnte ein einzelner Fremdpartikel während eines gesamten Produktionszeitraums unentdeckt bleiben.
+
+Der Partikel verursachte über mehrere Produktionschargen hinweg Beschädigungen an den Membranen. Durch die wiederholten Schweißvorgänge wurde er zunehmend abgeflacht, sodass die Beschädigungen schließlich nicht mehr auftraten. dies geschah noch vor der nächsten geplanten mikroskopischen Inspektion.
+
+Die Untersuchung ergab somit eine Lücke im bestehenden Inspektions- und Wartungskonzept.
+
+Diese stellt eine Abweichung von den Anforderungen der ISO 13485:2016, Abschnitt 7.5.6 (Prozessvalidierung) dar, da die festgelegten und validierten Prozesskontrollen nicht an die veränderten Produktionsbedingungen angepasst wurden.
+
+**Formale Bestätigung der Hauptursache**
+
+Die ermittelte Hauptursache wurde am 29.03.2024 von folgenden verantwortlichen Personen offiziell bestätigt:
+- Sarah Müller, Leiterin Qualitätssicherung
+- Carlos Rivera, Produktionsleiter
+
+## 8. Korrekturmaßnahmen
+
+Die Korrekturmaßnahmen wurden festgelegt, um die Ursache der Nichtkonformität an der Ultraschallschweißanlage UW-02 zu beseitigen und den Schweißprozess wieder in einen validierten Zustand zu versetzen.
+
+Der Maßnahmenplan wurde am 12.04.2024 im Rahmen der Managementbewertung genehmigt. 
+
+**Maßnahmenplan**
+
+| **Nr.** | **Maßnahme** | **Verantwortliche Person** | **Frist** | **Nachweis der Umsetzung** | **Status**| 
+|---|---|---|---|---|---|
+|CA1| Die Kontaktfläche der Sonotrode SN-UW-02-117 nachbearbeiten, um den eingebetteten Partikel zu entfernen und die Oberfläche wieder in den qualifizierten Zustand zu versetzen. Falls die Sonotrode nach der Nachbearbeitung die festlegten Spezifikationen nicht erfüllt, muss sie ersetzt werden.| Losa Hartmann, Produktionsingenieurin| 31.05.2024| Inspektionsbericht nach der Nachbearbeitung. Probeschweißung mit 1.000 Einheiten, die sowohl den Bubble-Point-Test als auch den Wasserintrusionstest bestehen. | Abgeschlossen | 
+|CA2| Den vorhandenen Schweißzykluszähler an den Ultraschallschweißanlagen UW-02 und UW-04 aktivieren und so konfigurieren, dass die Zählung mit der nächsten Produktionscharge nach der erneuten Qualifizierung der Sonotrode beginnt. Die Zählerstände mit den Protokolldaten der Schweißanlagensteuerung vergleichen. |Carlos Rivera, Produktionsleiter| 15.06.2024| Dokumentation der Aktivierung des Zykluszählers sowie ein Bericht, der die Übereinstimmung der Zählerstände mit den Protokolldaten der Anlagensteuerung bestätigt. | Abgeschlossen |
+|CA3| Die Verfahrensanweisung SOP-MFG-014 (Wartung der Sonotrode) überarbeiten und eine zyklusabhängige Vorgabe für die gründliche mikroskopische Inspektion ergänzen. Das Prüfintervall wird an das aktuelle Produktionsvolumen angepasst. Neue Vorgabe: Eine gründliche Inspektion nach jeweils 250.000 Schweißzyklen oder spätestens nach sechs Wochen, je nachdem, was zuerst eintritt. |Thomas Becker, Qualitätsingenieur| 30.06.2024| Freigabe der überarbeiteten SOP im Rahmen der Dokumentenlenkung. | Abgeschlossen |
+|CA4| Eine erneute Prozessvalidierung (IQ/OQ/PQ) des Ultraschallschweißprozesses unter Berücksichtigung des überarbeiteten Inspektionskonzepts durchführen.| Hannah Schultz, Ingenieurin für Prozessvalidierung| 30.09.2024| Genehmigter Prozessvalidierungsbericht.| Abgeschlossen |
+|CA5| Alle Mitarbeitenden aus Wartung und Produktion zur überarbeiteten SOP-MFG-014 schulen. Die Schulung umfasst insbesondere die zyklusabhängigen Inspektionsvorgaben sowie den Unterschied zwischen oberflächlichen Verschmutzungen und fest eingebetteten Partikeln.| Julia Braun, QA specialist| 15.10.2024| Unterschriebene Schulungsnachweise und abgeschlossene Überprüfung der erworbenen Kenntnisse.| Abgeschlossen |
+
+**Überprüfung der Maßnahmensetzung**
+
+**CA1: Nachbearbeitung der Sonotrode**
+
+Die Kontaktfläche der Sonotrode wurde nachbearbeitet und wieder in den qualifizierten Zustand versetzt. Anschließend wurde eine Probeschweißung mit 1.000 Einheiten durchgeführt. 
+
+Alle geprüften Einheiten bestanden die erforderlichen Prüfungen. Es wurden keine Fehler festgestellt.
+
+**CA2: Aktivierung der Schweißzykluszähler**
+
+Die Schweißzykluszähler an den Anlagen UW-02 und UW-04 wurden erneut aktiviert und entsprechend den neuen Vorgaben des Inspektionskonzepts konfiguriert. 
+
+Die Zählerstände wurden mit den Protokolldaten der Anlagensteuerung verglichen. Ein Prüfbericht bestätigte die korrekte Erfassung der Schweißzyklen.
+
+**CA3: Überarbeitung der Wartungsanweisung**
+
+Die überarbeitete Verfahrensanweisung SOP-MFG.014, Revision 4, wurde freigegeben.
+
+Das neue Inspektionsintervall wurde auf 250.000 Schweißzyklen oder sechs Wochen festgelegt, je nachdem, welcher Grenzwert zuerst erreicht wird.
+
+**CA4: Erneute Prozessvalidierung**
+
+Die erneute Validierung des Ultraschallschweißprozesses wurde vollständig durchgeführt und dokumentiert.
+
+Die Validierung umfasste die drei Qualifizierungsphasen:
+- **IQ (Installation Qualification)**: Installationsqualifizierung
+- **OQ (Operational Qualification)**: Funktionsqualifizierung
+- **PQ (Performance Qualification)**: Leistungsqualifizierung
+
+**CA5: Schulung der Mitarbeitenden**
+
+Insgesamt wurden 14 Mitarbeitende aus drei Produktionssichten sowie aus dem Wartungsteam geschult.
+
+Die Schulungsnachweise wurden dokumentiert und gemäß den geltenden Vorgaben aufbewahrt.
+
+**Abschluss der Korrekturmaßnahmen**
+
+Alle Korrekturmaßnahmen wurden innerhalb des geplanten Umsetzungszeitraums abgeschlossen.
+
+Die Wirksamkeit des überarbeiteten Inspektions- und Wartungskonzepts wird in Abschnitt 11 überprüft. 
+
+## 9. Vorbeugungsmaßnahmen
+
+Ein Maßnahmenplan für Vorbeugungsmaßnahmen wurde erstellt, um die Erkenntnisse aus CAPA-MF-1529 auf weitere Produktionsprozesse bei MedFluss zu übertragen. Gleichzeitig sollten die grundlegenden Schwachstellen im Qualitätsmanagementsystem (QMS) behoben werden, die dazu geführt hatten, dass das Inspektionsintervall nicht mehr an das gestiegene Produktionsvolumen angepasst war.
+
+Der Maßnahmenplan wurde am 02.05.2024 im Rahmen der Managementbewertung genehmigt.
+
+### Maßnahmenplan
+
+|**Nr.**| **Maßnahme** | **Verantwortliche Person** | **Frist** | **Nachweis der Umsetzung** | **Status** | 
+|---|---|---|---|---|---|
+|PA1| Eine bereichsübergreifende Überprüfung aller Anlagen und Werkzeuge mit Verschließteilen in den Produktionslinien von MedFluss durchführen (z.B. Sonotroden, Schweißhörner und Schneidwerkzeuge). Alle Anlagen , deren vorbeugende Wartung bisher nach festen Zeitintervallen erfolgt, überprüfen und gegebenenfalls auf eine zyklusabhängige Wartung umstellen. | Hannah Schultz, Ingenieurin für Prozessvalidierung| 30.08.2024| Bericht über die bereichsübergreifende Überprüfung und aktualisiertes Anlagenverzeichnis. | Abgeschlossen |
+| PA2 | Die Anforderungen an Inspektionsintervalle für alle Verschließteile in der Verfahrensanweisung zur Prozessvalidierung (SOP-QA-004) festlegen. Dabei müssen zwei parallele Auslösekriterien berücksichtigt werden: ein zeitabhängiges Intervall und ein Intervall auf Basis der Schweiß- bzw. Betriebszyklen. Die Inspektion muss durchgeführt werden, sobald eines der beiden Kriterien erfüllt ist. Dadurch wird sichergestellt, dass Inspektion und Wartung an die tatsächliche Nutzung der Anlage angepasst werden. | Hanna Schultz, Ingenieurin für Prozessvalidierung | 31.10.2024 | Freigabe der überarbeiteten SOP zur Prozessvalidierung. Überprüfung der bestehenden Inspektionsintervalle für Verschleißteile und Umstellung auf ein System mit zwei Auslösekriterien.| Abgeschlossen|
+|PA3| Die Verfahrensanweisung zum Änderungsmanagement (SOP-QA-005) überarbeiten. Bei einer Erhöhung des Produktionsvolumens müssen alle relevanten Prozess- und Inspektionsparameter überprüft und bei Bedarf angepasst werden. Dazu gehören die unter PA2 festgelegten Inspektionsintervalle mit zwei Auslösekriterien, Stichprobenumfänge, Schätzungen zur Lebensdauer von Anlagen und Werkzeugen sowie Prozesskontrollgrenzen. Dadurch soll sichergestellt werden, dass die Prozesse weiterhin innerhalb der neu festgelegten Spezifikationen bleiben.| Thomas Becker, Qualitätsingenieur| 20.11.2024| Freigabe der überarbeiteten SOP-QA-005 mit einer ausdrücklichen Auflistung der Parameter, die bei einer Erhöhung des Produktionsvolumens erneut bewertet und gegebenenfalls angepasst werden müssen.| Abgeschlossen|
+
+### Überprüfung der Maßnahmenumsetzung
+
+**PA1: Bereichsübergreifende Überprüfung der Anlagen**
+
+Die bereichsübergreifende Überprüfung umfasste insgesamt 17 Anlagen und Werkzeuge aus sechs Produktionslinien.
+
+Vier weitere Anlagen bzw. Werkzeuge wurden als verschleißteilrelevant eingestuft und auf ein zyklusabhängiges Wartungskonzept umgestellt.
+
+**PA2: Einführung von Inspektionsintervallen mit zwei Auslösekriterien**
+
+Die überarbeitete Verfahrensanweisung zur Prozessvalidierung, SOP-QA-004, Revision 3, wurde freigegeben.
+
+Sie enthält nun ausdrücklich die Anforderung, Inspektions- und Wartungsintervalle anhand von zwei Auslösekriterien festzulegen: einem zeitabhängigen Intervall und einem zyklusabhängigen Intervall. 
+
+**PA3: Überarbeitung der Verfahrensanweisung zum Änderungsmanagement**
+
+Die überarbeitete Verfahrensanweisung SOP-QA-005, Revision 6, wurde freigegeben.
+
+Eine Erhöhung des Produktionsvolumens ist nun ausdrücklich als Alslöser für ein Änderungsverfahren festgelegt. In diesem Fall müssen alle relevanten Prozess- und Inspektionsparameter überprüft und bei Bedarf aktualisiert werden. 
+
+### Abschluss der Vorbeugungsmaßnahmen
+
+Alle Vorbeugungsmaßnahmen wurden innerhalb des geplanten Umsetzungszeitraums abgeschlossen.
+
+Die Wirksamkeit der Vorbeugungsmaßnahmen wird gemeinsam mit den Korrekturmaßnahmen in Abschnitt 11 überprüft.
+
+
+
+
+*(Weitere Abschnitte kommen gleich.)*
