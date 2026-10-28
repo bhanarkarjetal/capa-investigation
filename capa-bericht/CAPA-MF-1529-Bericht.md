@@ -440,11 +440,93 @@ Keine Verifizierungs- oder Validierungsmaßnahme wurde von der Person freigegebe
 
 Die vollständigen Verifizierungs- und Validierungsnachweise werden in der CAPA-Akte CAPA-MF-1529 aufbewahrt.
 
-**Verifizierung und Validierung abgeschlossen am: 22.12.2024**
+**Verifizierung und Validierung abgeschlossen am**: 22.12.2024
 
-**Unabhängiger Prüfer: Felix Wagner, Qualitätsauditor**
+**Unabhängiger Prüfer**: Felix Wagner, Qualitätsauditor
 
-**Freigabe durch die Qualitätssicherung: Sarah Müller, Leiterin Qualitätssicherung**
+**Freigabe durch die Qualitätssicherung**: Sarah Müller, Leiterin Qualitätssicherung
 
+### 11. Wirksamkeitsprüfung
+
+Die folgenden Wirksamkeitskriterien wurden bei der Eröffnung der CAPA festgelegt und im Rahmen der Managementbewertung am 12.04.2024 erneut bestätigt.
+
+Die CAPA durfte erst abgeschlossen werden, wenn alle festgelegten Kriterien innerhalb des Überwachungszeitraums erfüllt waren.
+
+#### Kriterien für die Wirksamkeitsprüfung
+
+The following criteria were defined at CAPA opening and reconfirmed at Management Review on 12.04.2024. The CAPA could only be closed when all the criteria were met within the surveillance window.
+
+|**Nr.**| **Kriterium**| **Akzeptanzkriterium**| **Ergebnis**| **Status**|
+|---|---|---|---|---|
+|EC1| Kein erneutes Auftreten von Mikropunktionsfehlern an der Membran im überarbeiteten Prozess.| Keine bestätigten Fälle im Zusammenhang mit dem betroffenen Produkt.| Innerhalb des 90-tägigen Überwachungszeitraums wurden keine bestätigten Fälle festgestellt.| Erfüllt |
+|EC2| Keine Reklamationen aufgrund von Undichtigkeiten am Entlüftungsfilter des Produkts MF-INF-SVIF-200 während des Überwachungszeitraums.| Keine neuen Reklamationen im Zusammenhang mit dem betroffenen Produkt.| Es gingen keine Reklamationen aufgrund von Undichtigkeiten am Entlüftungsfilter des Produkts MF-INF-SVIF-200 ein. Die Anzahl der Reklamationen für die Produktfamilie kehrte auf das ursprüngliche Niveau zurück. | Erfüllt |
+|EC3| Die Prozessfähigkeit bleibt unter dem überarbeiteten Inspektions- und Wartungskonzept erhalten.| Ein Prozessfähigkeitsindex von Cpk ≥ 1,33 muss während des gesamten Überwachungszeitraums aufrechterhalten werden.| Die Cpk-Werte lagen während des Überwachungszeitraums zwischen 1,58 und 1,67.| Erfüllt |
+|EC4| Das Inspektionskonzept mit zwei Auslösekriterien funktioniert wie vorgesehen. | Die erste durch den Schweißzykluszähler ausgelöste gründliche Inspektion muss spätestens nach 250.000 Schweißzyklen erfolgen. Die zeitabhängige Grenze von sechs Wochen gilt weiterhin, je nachdem, welcher Grenzwert zuerst erreicht wird.| Die erste zyklusabhängige Inspektion wurde nach 249.800 Schweißzyklen durchgeführt. Der Zustand der Sonotrode entsprach den festgelegten Spezifikationen.| Erfüllt |
+|EC5| Die Einhaltung der überarbeiteten SOPs wird durch ein internes Audit bestätigt.| Keine schwerwiegenden Auditfeststellungen im Zusammenhang mit den überarbeiteten SOPs. | Es wurden keine schwerwiegenden Abweichungen festgestellt. Eine geringfügige Abweichung hinsichtlich der Vollständigkeit der Schulungsnachweise wurde innerhalb von sieben Tagen beseitigt.| Erfüllt |
+|EC6| Keine Erweiterung des Umfangs der Sicherheitskorrekturmaßnahme im Feld (FSCA), da keine weiteren betroffenen Chargen identifiziert wurden. |Der Bereich der betroffenen Chargen bleibt unverändert: MF-2023-F036 bis MF-2023-F071.|  Es wurden keine weiteren betroffenen Chargen identifiziert. Der Umfang der FSCA blieb unverändert.| Erfüllt |
+|EC7| Die bereichsübergreifenden Vorbeugungsmaßnahmen sind auch in den anderen Produktionslinien wirksam. |Keine vergleichbaren Probleme an den anderen neu eingestuften Anlagen und Werkzeugen.| An den vier neu eingestuften Anlagen bzw. Werkzeugen anderer Produktionslinien wurden keine neuen Probleme festgestellt.| Erfüllt |
+
+#### Überwachungszeitraum und Methoden
+
+Die reguläre Produktion wurde am 15.10.2024 nach Abschluss der Mitarbeiterschulung gemäß CA5 unter Anwendung des überarbeiteten Inspektions- und Wartungskonzepts sowie der aktualisierten SOPs wieder aufgenommen.
+
+Der Zeitraum für die Wirksamkeitsüberwachung wurde auf 90 Tage ab diesem Datum festgelegt und endete am 13.01.2025.
+
+Die Wirksamkeitsprüfung umfasste sechs voneinander unabhängige Überwachungsmaßnahmen:
+
+1. **Tägliche Überwachung der Reklamationen**: Die Reklamationen zum Produkt MF-INF-SVIF-200 wurden täglich über das Reklamationsmanagementsystem überwacht.
+
+Verantwortlich war Anna Schmidt, CA-Managerin.
+
+2. **Wöchentliche Überprüfung der Produktionsparameter**: Die Protokolldaten der Produktionsparameter sowie die Regelkarten der statistischen Prozesskontrolle wurden wöchentlich überprüft.
+
+Verantwortlich war Hanna Schutz, Ingenieurin für Prozessvalidierung.
+
+3. **Monatliche Überprüfung der Schweißzykluszähler**: Die Protokolldaten der Schweißzykluszähler wurden monatlich überprüft und mit den Steuerungsdaten der Schweißanlagen abgeglichen.
+
+Die Überprüfung erfolgte unter der Aufsicht von Carlos Rivera, Produktionsleiter.
+
+4. **Interne Audits der überarbeiteten SOPs**: Am 10.12.2024 führte Felix Wagner, Qualitätsauditor, interne Audits der folgenden überarbeiteten Verfahrensanweisungen durch:
+- SOP-MFG-014, Revision 4
+- SOP-QA-004, Revision 3
+- SOP-QA-005, Revision 6
+
+Dabei wurde die Einhaltung der neuen Anforderungen überprüft.
+
+5. **Erste zyklusabhängige mikroskopische Inspektion**: Die erste durch den Schweißzykluszähler ausgelöste gründliche mikroskopische Inspektion der Sonotrode  SN-UW-02-117 wurde am 12.11.2024 durchgeführt.
+
+Zum Zeitpunkt der Inspektion hatte die Sonotrode insgesamt 259.800 Schweißzyklen erreicht.
+
+Die Inspektion bestätigt, dass sich die Sonotrode weiterhin innerhalb der festgelegten Spezifikationen befand.
+
+6. **Fortlaufende bereichsübergreifende Überprüfung**: Die im Rahmen der Vorbeugungsmaßnahmen neu eingestuften Anlagen und Werkzeuge mit Verschleißteilen wurden auch in den anderen Produktionslinien weiterhin überprüft.
+
+Ziel war es, mögliche vergleichbare Probleme frühzeitig zu erkennen und die Wirksamkeit des überarbeiteten Wartungskonzepts zu bestätigen.
+
+#### Schlussfolgerung
+
+Alle sieben Wirksamkeitskriterien wurden innerhalb des 90-tägigen Überwachungszeitraums erfüllt.
+
+Durch die Korrekturmaßnahmen wurde die unmittelbare Fehlerursache an der Sonotrode SN-UW-02-117 beseitigt. Gleichzeitig wurde der Ultraschallschweißprozess wieder in einen validierten Zustand versetzt.
+
+Die Vorbeugungsmaßnahmen führten zur Einführung einer QMS-weiten Anforderung, nach der für relevante Anlagen und Werkzeuge mit Verschleißteilen sowohl zeitabhängige als auch zyklusabhängige Inspektionsintervalle berücksichtigt werden müssen.
+
+Im Rahmen der bereichsübergreifenden Überprüfung wurden 17 Anlagen und Werkzeuge aus sechs Produktionslinien untersucht. Dabei wurden vier weitere Anlagen bzw. Werkzeuge identifiziert, für die eine Umstellung auf ein Wartungskonzept mit zwei Auslösekriterien erforderlich war. Die entsprechenden Änderungen wurden umgesetzt.
+
+Darüber hinaus wurde die Verfahrensanweisung zum Änderungsmanagement (SOP-QA-005) überarbeitet. Bei einer Erhöhung des Produktionsvolumens müssen nun alle relevanten Prozessparameter und Inspektionsintervalle erneut bewertet und bei Bedarf angepasst werden.
+
+Durch diese Maßnahmen wurde ein systematischer Ansatz zur Wartungsplanung eingeführt, der dazu beiträgt, vergleichbare Nichtkonformitäten in anderen Produktionslinien zu vermeiden.
+
+Die erste durch den Schweißzykluszähler ausgelöste mikroskopische Inspektion bestätigte, dass das System mit zwei Auslösekriterien wie vorgesehen funktionierte.
+
+**Die ermittelte Grundursache wurde beseitigt, der Prozess wurde wieder in einen validierten Zustand versetzt und es wurde kein erneutes Auftreten des Fehlers beobachtet.**
+
+#### Prüfung und Freigabe
+
+|**Funktion**|**Name**|**Datum**|
+|---|---|---|
+| Unabhängige Wirksamkeitsprüfung | Felix Wagner, Qualitätsauditor| 14.01.2025|
+| Freigabe durch die Qualitätssicherung| Sarah Müller, Leiterin Qualitätssicherung| 15.01.2025|
+|Zustimmung des CAPA-Verantwortlichen| Carlos Rivera, Produktionsleiter| 15.01.2025|
 
 *(Weitere Abschnitte kommen gleich.)*
