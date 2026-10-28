@@ -9,14 +9,14 @@
 | Abschlussdatum| 07.02.2025 |
 | Status | Abgeschlossen |
 | Schweregrad | Schwerwiegend (Major) |
-| Verantwortliche Abteilung| Produktion |
+| Verantwortliche Abteilung | Produktion |
 | CAPA-Verantwortlicher | Carlos Rivera, Produktionsleiter |
 | CAPA-Koordinator | Thomas Becker, Qualitätsingenieur |
-| CAPA-Abschluss durch | Julia Braun, Mitarbeiterin Qualitätssicherung|
-| Betroffenes Medizinprodukt | MedFluss Infusionsset mit sterilem Inline-Entlüftungsfilter|
+| CAPA-Abschluss durch | Julia Braun, Mitarbeiterin Qualitätssicherung |
+| Betroffenes Medizinprodukt | MedFluss Infusionsset mit sterilem Inline-Entlüftungsfilter |
 | Produktcode | MF-INF-SVIF-200 |
 | Betroffene Chargen | MF-2023-F036 bis MF-2023-F071 (36 Chargen, ca. 360.000 Einheiten) |
-| Quelle der Fehlererkennung | Überwachung nach dem Inverkehrbringen (Post-Market Surveillance) - Kundenreklamation|
+| Quelle der Fehlererkennung | Überwachung nach dem Inverkehrbringen (Post-Market Surveillance) - Kundenreklamation |
 | Zugehörige Reklamationsnummern | CC-2024-0034, CC-2024-0043, CC-2024-0059, CC-2024-0079, CC-2024-0094 |
 | Regulatorische Anforderungen und Normen | ISO 14971, EU MDR, ISO 13485:2016 (Clause 7.5.6, Clause 8.5.2, Clause 8.5.3) |
 
@@ -314,9 +314,9 @@ Der Maßnahmenplan wurde am 02.05.2024 im Rahmen der Managementbewertung genehmi
 
 |**Nr.**| **Maßnahme** | **Verantwortliche Person** | **Frist** | **Nachweis der Umsetzung** | **Status** | 
 |---|---|---|---|---|---|
-|PA1| Eine bereichsübergreifende Überprüfung aller Anlagen und Werkzeuge mit Verschließteilen in den Produktionslinien von MedFluss durchführen (z.B. Sonotroden, Schweißhörner und Schneidwerkzeuge). Alle Anlagen , deren vorbeugende Wartung bisher nach festen Zeitintervallen erfolgt, überprüfen und gegebenenfalls auf eine zyklusabhängige Wartung umstellen. | Hannah Schultz, Ingenieurin für Prozessvalidierung| 30.08.2024| Bericht über die bereichsübergreifende Überprüfung und aktualisiertes Anlagenverzeichnis. | Abgeschlossen |
+|PA1| Eine bereichsübergreifende Überprüfung aller Anlagen und Werkzeuge mit Verschließteilen in den Produktionslinien von MedFluss durchführen (z.B. Sonotroden, Schweißhörner und Schneidwerkzeuge). Alle Anlagen , deren vorbeugende Wartung bisher nach festen Zeitintervallen erfolgt, überprüfen und gegebenenfalls auf eine zyklusabhängige Wartung umstellen. | Hannah Schultz, Ingenieurin für Prozessvalidierung. | 30.08.2024 | Bericht über die bereichsübergreifende Überprüfung und aktualisiertes Anlagenverzeichnis. | Abgeschlossen |
 | PA2 | Die Anforderungen an Inspektionsintervalle für alle Verschließteile in der Verfahrensanweisung zur Prozessvalidierung (SOP-QA-004) festlegen. Dabei müssen zwei parallele Auslösekriterien berücksichtigt werden: ein zeitabhängiges Intervall und ein Intervall auf Basis der Schweiß- bzw. Betriebszyklen. Die Inspektion muss durchgeführt werden, sobald eines der beiden Kriterien erfüllt ist. Dadurch wird sichergestellt, dass Inspektion und Wartung an die tatsächliche Nutzung der Anlage angepasst werden. | Hanna Schultz, Ingenieurin für Prozessvalidierung | 31.10.2024 | Freigabe der überarbeiteten SOP zur Prozessvalidierung. Überprüfung der bestehenden Inspektionsintervalle für Verschleißteile und Umstellung auf ein System mit zwei Auslösekriterien.| Abgeschlossen|
-|PA3| Die Verfahrensanweisung zum Änderungsmanagement (SOP-QA-005) überarbeiten. Bei einer Erhöhung des Produktionsvolumens müssen alle relevanten Prozess- und Inspektionsparameter überprüft und bei Bedarf angepasst werden. Dazu gehören die unter PA2 festgelegten Inspektionsintervalle mit zwei Auslösekriterien, Stichprobenumfänge, Schätzungen zur Lebensdauer von Anlagen und Werkzeugen sowie Prozesskontrollgrenzen. Dadurch soll sichergestellt werden, dass die Prozesse weiterhin innerhalb der neu festgelegten Spezifikationen bleiben.| Thomas Becker, Qualitätsingenieur| 20.11.2024| Freigabe der überarbeiteten SOP-QA-005 mit einer ausdrücklichen Auflistung der Parameter, die bei einer Erhöhung des Produktionsvolumens erneut bewertet und gegebenenfalls angepasst werden müssen.| Abgeschlossen|
+|PA3| Die Verfahrensanweisung zum Änderungsmanagement (SOP-QA-005) überarbeiten. Bei einer Erhöhung des Produktionsvolumens müssen alle relevanten Prozess- und Inspektionsparameter überprüft und bei Bedarf angepasst werden. Dazu gehören die unter PA2 festgelegten Inspektionsintervalle mit zwei Auslösekriterien, Stichprobenumfänge, Schätzungen zur Lebensdauer von Anlagen und Werkzeugen sowie Prozesskontrollgrenzen. Dadurch soll sichergestellt werden, dass die Prozesse weiterhin innerhalb der neu festgelegten Spezifikationen bleiben.| Thomas Becker, Qualitätsingenieur | 20.11.2024 | Freigabe der überarbeiteten SOP-QA-005 mit einer ausdrücklichen Auflistung der Parameter, die bei einer Erhöhung des Produktionsvolumens erneut bewertet und gegebenenfalls angepasst werden müssen.| Abgeschlossen|
 
 ### Überprüfung der Maßnahmenumsetzung
 
@@ -344,7 +344,107 @@ Alle Vorbeugungsmaßnahmen wurden innerhalb des geplanten Umsetzungszeitraums ab
 
 Die Wirksamkeit der Vorbeugungsmaßnahmen wird gemeinsam mit den Korrekturmaßnahmen in Abschnitt 11 überprüft.
 
+## 10. Verifizierungs- und Validierungsmaßnahmen
 
+### 10.1. Strategie zur Verifizierung und Validierung
+
+Die Verifizierungs- und Validierungsmaßnahmen (V&V) für CAPA-MF-1529 basierten auf zwei sich ergänzenden Ansätzen.
+
+**Verifizierung**: Mit der Verifizierung wurde überprüft, ob jede Maßnahme wie festgelegt umgesetzt wurde. Dazu gehörte die Kontrolle, ob alle erforderlichen Dokumente freigegeben, die Anlage ordnungsgemäß installiert, die Schulungsnachweise vollständig dokumentiert und die festgelegten Verfahren korrekt eingehalten wurden.
+
+**Validierung**: Mit der Validierung würde bestätigt, dass die umgesetzten Maßnahmen die beabsichtigten Ergebnisse erzielten. Dabei würde überprüft, ob die nachbearbeitete Sonotrode spezifikationskonforme Schweißverbindungen herstellt, das überarbeitete Inspektionskonzept die vorgesehenen Fehler zuverlässig erkennt und die Prozesse unter den neuen Bedingungen innerhalb der festgelegten Spezifikationen und statistischen Kontrollgrenzen arbeiten.
+
+Alle Verifizierungs- und Validierungsmaßnahmen wurden von Personen durchgeführt, die nicht für die Umsetzung der jeweiligen Maßnahmen verantwortlich waren. Dies erfolgte gemäß den Verfahrensanweisungen SOP-QA-001 (CAPA), SOP-QA-004 (Prozessvalidierung) und SOP-QA-005 (Änderungsmanagement).
+
+Felix Wagner (Qualitätsauditor) übernahm bei den meisten Maßnahmen die unabhängige Überprüfung. Sarah Müller (Leiterin Qualitätssicherung) war für die Freigabe der Verifizierung auf SOP-Ebene verantwortlich.
+
+Alle Verifizierungs- und Validierungsnachweise wurden dokumentiert und in der CAPA-Akte CAPA-MF-1529 aufbewahrt. 
+
+### 10.2. Verifizierung der Korrekturmaßnahmen
+
+### 10.2. Verification of Corrective Actions
+
+|**Maßnahme**|**Verifizierungsmethode**| **Validierungsmethode**| **Unabhängige prüfende Person**| **Datum**| **Ergebnis**|
+|-|-|-|-|-|-|
+|CA1: Nachbearbeitung der Sonotrode| Maß- und Oberflächenprüfung der Kontaktfläche nach der Nachbearbeitung| Probeschweißung mit 1.000 Einheiten sowie Bubble-Point-Test und Wasserintrusionstest| Felix Wagner| 26.05.2024| Bei der Prüfung wurden keine Fehler festgestellt. Die Sonotrode wurde wieder in den qualifizierten Zustand versetzt.|
+|CA2: Aktivierung der Schweißzykluszähler| Abgleich der Zählerstände mit den Protokolldaten der Schweißanlagensteuerung über die nächsten fünf Produktionschargen | Bestätigung der vollständigen Übereinstimmung zwischen Zählerständen und Steuerungsprotokollen| Felix Wagner| 13.06.2024| Die korrekte Funktion der Schweißzykluszähler wurde bestätigt.|
+|CA3: Überarbeitung der SOP-MFG-014| Prüfung der Revision 4 im Rahmen der Dokumentenlenkung sowie Kontrolle der festgelegten Auslösekriterien für die zyklusabhängige Inspektion| Abgleich mit den aktivierten Schweißzykluszählern und den Anforderungen der SOP-MFG-014| Sarah Müller| 27.06.2024 | Die überarbeitete SOP wurde im Rahmen der Dokumentenlenkung freigegeben.|
+|CA4: Erneute Prozessvalidierung| Siehe Abschnitt 10.4| Siehe Abschnitt 10.4| Felix Wagner| 10.11.2024| Siehe Abschnitt 10.4|
+|CA5: Schulung der Mitarbeitenden| Überprüfung der unterschriebenen Schulungsnachweise von 14 Mitarbeitenden| Überprüfung der erworbenen Kenntnisse nach Abschluss der Schulung| Felix Wagner|11.10.2024| Alle Mitarbeitenden haben die Überprüfung ihrer Kenntnisse erfolgreich bestanden. |
+
+### 10.3. Verifizierung der Vorbeugungsmaßnahmen
+
+|**Maßnahme**|**Verifizierungsmethode**| **Validierungsmethode**| **Unabhängige prüfende Person**| **Datum**| **Ergebnis**|
+|-|-|-|-|-|-|
+|PA1: Bereichsübergreifende Überprüfung von Anlage mit Verschleißteilen| Unabhängige Prüfung des aktualisierten Anlagenverzeichnisses und der überarbeiteten Wartungsanweisung. | Überprüfung, ob die Neueinstufung der betroffenen Anlagen und Werkzeuge auf die in CAPA-MF-1529 ermittelte Ursache zurückzuführen ist.| Felix Wagner| 22.12.2024| Der Bericht zur bereichsübergreifenden Überprüfung wurde genehmigt. Vier Anlagen bnw. Werkzeuge wurden neu eingestuft und auf ein Wartungskonzept mit zwei Auslösekriterien umgestellt.|
+|PA2: Überarbeitung der SOP-QA-004 | Prüfung der Revision 3 im Rahmen der Dokumentenlenkung hinsichtlich der neuen Anforderungen an die erneute Bewertung der Inspektionsintervalle. | Überprüfung der bestehenden Inspektionsintervalle für Verschießteile und Bestätigung der Umstellung auf ein System mit zwei Auslösekriterien.| Sarah Müller| 19.11.2024| Die SOP-QA-004 wurde im Rahmen der Dokumentenlenkung freigegeben.|
+|PA3: Überarbeitung der SOP-QA-005 | Prüfung der Revision 4 im Rahmen der Dokumentenlenkung hinsichtlich der neuen Anforderungen bei einer Erhöhung des Produktionsvolumens.| Überprüfung der Parameterliste und des Verweises auf PA2.| Sarah Müller| 19.11.2024| SOP-QA-005 wurde im Rahmen der Dokumentenlenkung freigegeben. |
+
+### 10.4. Details zur erneuten Prozessvalidierung (CA4)
+
+Die erneute Validierung des Ultraschallschweißprozesses wurde gemäß SOP-QA-004 durchgeführt.
+
+Sie umfasste drei aufeinanderfolgende Qualifizierungsphasen, die zwischen dem 26.07.2024 und dem 27.09.2024 abgeschlossen wurden.
+
+**Installationsqualifizierung (IQ: Installation Qualification)**
+
+Im Rahmen der Installationsqualifizierung wurde überprüft, ob die nachbearbeitete Sonotrode, die aktivierten Schweißzykluszähler an den Anlagen UW-02 und UW-04 sowie die zugehörige Steuerungssoftware gemäß den freigegebenen Spezifikationen installiert und konfiguriert waren. 
+
+Dabei wurde Folgendes bestätigt:
+
+- Die Kalibrierzertifikate waren gültig und aktuell.
+- Die erforderlichen Versorgungsanschlüsse waren korrekt angeschlossen.
+- Die Softwareversionen entsprachen der freigegebenen Konfigurationsbasis.
+
+**Funktionsqualifizierung (OQ: Operational Qualification)**
+
+Im Rahmen der Funktionsqualifizierung wurde nachgewiesen, dass der Ultraschallschweißprozess an den Anlagen UW-02 und UW-04 innerhalb der festgelegten Prozessparameter über den gesamten vorgesehenen Betriebsbereich funktionierte.
+
+Folgende Prozessparameter wurden bei niedrigen, nominalen und hohen Einstellungen geprüft:
+- Schweißenergie (Weld Energy)
+- Auslösekraft (Trigger Force)
+- Schweißzeit (Weld Time)
+- Haltezeit (Hold Time)
+
+Zusätzlich wurde die korrekte Funktion der Alarm- und Verriegelungssysteme überprüft.
+
+Das überarbeitete Inspektionskonzept umfasste weiterhin eine monatliche Schichtprüfung mit manueller Reinigung sowie eine gründliche mikroskopische Inspektion nach 250.000 Schweißzyklen oder spätestens sechs Wochen, je nachdem, welcher Grenzwert zuerst erreicht wurde.
+
+Zur Überprüfung der Fehlererkennung wurde gezielt ein Partikel mit einer Größe von weniger als einem Millimeter eingebracht.
+
+Dabei wurde bestätigt, dass die gründliche mikroskopische Inspektion den betreffenden Fehlertyp auch bei dieser geringen Partikelgröße erkennen konnte.
+
+**Leistungsqualifizierung (PQ: Performance Qualification)**
+
+Die Leistungsqualifizierung umfasste drei aufeinanderfolgende Produktionsläufe unter Anwendung des überarbeiteten Inspektions- und Wartungskonzepts.
+
+Jeder Produktionslauf bestand aus 10.000 Einheiten.
+
+Während der Produktion wurden die Schweißparameter kontinuierlich überwacht und mithilfe statischer Prozesskontrollmethoden ausgewertet.
+
+Nach dem Schweißprozess wurden folgende Dichtheitsprüfungen durchgeführt:
+- 100% Inline-Druckabfallprüfung (Pressure-Decay-Test): Alle produzierten Einheiten wurden auf Dichtheit geprüft.
+- Bubble-Point-Test anhand einer AQL-Stichprobe: Zusätzlich wurde eine Stichprobe gemäß dem festgelegten AQL-Prüfplan untersucht.
+
+In allen drei Produktionsläufen wurden keine Fehler festgestellt.
+
+Der Validierungsbericht wurde am 27.09.2024 erstellt und vor der Freigabe von Felix Wagner überprüft.
+
+### 10.5. Freigabe der Verifizierungs- und Validierungsmaßnahmen
+
+Alle Korrektur- und Vorbeugungsmaßnahmen dieser CAPA wurden hinsichtlich ihrer ordnungsgemäßen Umsetzung verifiziert und hinsichtlich ihrer beabsichtigten Ergebnisse validiert. 
+
+Für jede Maßnahme wurde eine unabhängige Überprüfung durchgeführt.
+
+Keine Verifizierungs- oder Validierungsmaßnahme wurde von der Person freigegeben, die für die Umsetzung der jeweiligen Maßnahme verantwortlich war.
+
+Die vollständigen Verifizierungs- und Validierungsnachweise werden in der CAPA-Akte CAPA-MF-1529 aufbewahrt.
+
+**Verifizierung und Validierung abgeschlossen am: 22.12.2024**
+
+**Unabhängiger Prüfer: Felix Wagner, Qualitätsauditor**
+
+**Freigabe durch die Qualitätssicherung: Sarah Müller, Leiterin Qualitätssicherung**
 
 
 *(Weitere Abschnitte kommen gleich.)*
