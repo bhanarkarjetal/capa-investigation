@@ -30,13 +30,13 @@ The air vent in the inline filter is a critical safety component in the IV admin
 
 The products associated with the complaints were traced to lots MF-2023-F036 to MF-2023-F071 (36 lots, ~360,000 units) distributed primarily within the EU and partially to the US market. Five formal complaints (*CC-2024-0034, CC-2024-0043, CC-2024-0059, CC-2024-0079, CC-2024-0094*) were received within a 21-day window from multiple independent hospital networks.
 
-**Observed events reported by customers:**
+#### Observed events reported by customers:
 - Visible fluid droplets on the outer surface of the air vent during infusion
 - Loss of medication volume; patient receives less than the prescribed dose
 - Wetted external surface of the filter housing, raising contamination concern
 - Therapy interruption due to mid-infusion set replacement 
 
-**Failure characteristics confirmed during initial review:**
+#### Failure characteristics confirmed during initial review:
 
 - Leakage observed across all infusion types (saline, lipid emulsion, parenteral solutions), confirming it is not dependent on fluid type
 - Leakage traced to a specific lot within a defined production window
@@ -44,7 +44,7 @@ The products associated with the complaints were traced to lots MF-2023-F036 to 
 - The release-time bubble-point test record, performed on an AQL sample (5 units per 10,000 units), did not detect the defect
 - Failures were detected only during retest of retained samples from the affected lot, which was performed as part of the complaint investigation (05.02.2024)
 
-**Nonconformity declaration:**
+#### Nonconformity declaration:
 
 The sterile venting inline filter membrane on lots MF-2023-F036 to MF-2023-F071 fails to maintain the barrier integrity under normal clinical operating conditions. The defect compromises the filter's intended function of permitting controlled air venting and preventing fluid passage and microbial ingress.
 
@@ -62,7 +62,7 @@ Severity Classified: **Major**. Potential for patient harm (under-dosing, contam
 
 **Source of Detection:** Post-market surveillance - Customer complaint handling system.
 
-**Detection Timeline**
+#### Detection Timeline
 
 | Date | Event |
 |---|---|
@@ -74,7 +74,7 @@ Severity Classified: **Major**. Potential for patient harm (under-dosing, contam
 | 08.02.2024 | Fifth complaint (CC-2024-0094) received from Klinikum Austria. |
 | 12.02.2024 | Nonconformity confirmed. CAPA-MF-1529 was opened by Thomas Becker (Quality Engineer) following management review approval.|
 
-**Reporting Parties**
+#### Reporting Parties
 
 - External: Independent sites across the EU and the US
 - Internal: Mia Lehmann, RA Associate (escalation); Thomas Becker, Quality Engineer (CAPA initiation) 
@@ -100,13 +100,13 @@ Full hazard identification, risk evaluation, and risk control verification are m
 
 Containment actions were executed under the CAPA procedure (*SOP-QA-001*) and Field Safety Corrective Action (*SOP-RA-005*) immediately following CAPA opening on 12.02.2024.
 
-**Containment objective**
+#### Containment objective
 
 Prevent further patient exposure to suspected units, quarantine the affected lots, isolate the source, and conduct a thorough investigation of the affected lots.
 
-**Containment Actions**
+#### Containment Actions
 
-| **#** | **Action** | **Owner**| **Status** | **Date Completed** |
+| # | Action | Owner | Status | Date Completed |
 |-------|------------|----------|------------|--------------------|
 |1| Suspend production on Ultrasonic-weld Line UW-02 (Sonotrode SN-UW-02-117) and lock equipment out under SOP-MFG-014 | Carlos Rivera, Manufacturing Manager | Closed | 13.02.2024 |
 |2| Quarantine all on-hand inventory of lots  MF-2023-F036 to MF-2023-F07 in central warehouse under restricted-access label | Carlos Rivera, Manufacturing Manager | Closed | 14.02.2024 |
@@ -121,13 +121,14 @@ Prevent further patient exposure to suspected units, quarantine the affected lot
 |11| Switch production for MF-INF-SVIF-200 to backup Ultrasonic-weld Line UW-004 with 100% in-line bubble-point test sampling on every released lot (interim control until full corrective action implemented) | Carlos Rivera, Manufacturing Manager | Closed | 20.02.2024 |
 |12| Pull retained samples from all suspect lots for targeted bubble-point retest to establish defect scope and prevalence| Thomas Becker, Quality Engineer | Closed | 19.02.2024 |
 
-**Initial Containment Confirmation (01.03.2024)**
+#### Initial Containment Confirmation (01.03.2024)
+
 - 100% stop-shipment status confirmed at all EU and US distributors
 - Production switchover to UW-04 producing conforming output (verified via 100% in-line bubble-point test on every released lot)
 - No new complaints received on lots produced after 20.02.2024 switchover
 - Daily complaint surveillance confirmed no expansion of the trend to other lots
 
-**Containment Effectiveness Review (15.04.2024)**
+#### Containment Effectiveness Review (15.04.2024)
 
 - Recall return rate of 80% within 60 days
 - No further complaints received on affected lots in the surveillance window
@@ -140,9 +141,9 @@ Prevent further patient exposure to suspected units, quarantine the affected lot
 
 **Investigation Record:** QI-2024-019 opened on 12.02.2024 under SOP-QA-001
 
-**Investigation Team**
+#### Investigation Team
 
-|**Role**| **Name** | 
+|Role|Name|
 |---|---|
 | Investigation Lead| Thomas Becker, Quality Engineer |
 | Process Owner | Carlos Rivera, Manufacturing Manager
@@ -152,7 +153,7 @@ Prevent further patient exposure to suspected units, quarantine the affected lot
 | Complaint Handling | Anna Schmidt, CA Manager|
 | External Subject Matter Expert | Branson Welding Technologies - Sonotrode supplier |
 
-**Investigation Methodology**
+#### Investigation Methodology
 
 1. Retained-sample retesting on suspected lots
 2. Suspected ultrasonic-welding sonotrode physical examination (visual, optical microscopy, scanning electron microscopy)
@@ -162,7 +163,7 @@ Prevent further patient exposure to suspected units, quarantine the affected lot
 6. Statistical analysis of complaint pattern and defect prevalence
 7. Horizontal review and analysis of product family on the same Ultrasonic-welding platform
 
-**Investigation summary**
+#### Investigation summary
 
 The bubble-point and water intrusion test performed on units produced in lots MF-2023-F036 to MF-2023-F071 under controlled lab conditions showed leakage at the same location on the inner edge of the ultrasonic-weld seam at the air-vent housing. The defect is a confirmed micro-puncture in the hydrophobic membrane at the inner edge of the ultrasonic-weld seam caused by an embedded thermoplastic particle at the horn contact face of sonotrode SN-UW-02-117. 
 
@@ -186,16 +187,16 @@ Following the conclusion of the investigation summary under Quality Investigatio
 
 ### 7.1. Five Whys
 
-**Problem Statement**:
+#### Problem Statement:
 
 The hydrophobic membrane of the sterile venting inline filter (Product code: MF-INF-SVIF-200) contains sub-millimeter micro-punctures at the inner edge of the ultrasonic-weld seam, causing fluid leakage and breaching of sterile barrier integrity.
 
-| **Step** | **Question** | **Finding** |
+| Step | Question | Finding |
 |---|---|---|
 | Why_01| Why did the membrane develop a micro-puncture? | A localized sub-millimeter over-pressure zone developed at the inner edge of the ultrasonic-weld seam. |
-|Why_02| Why was the localised sub-millimeter over-pressure zone developed?| A hardened thermoplastic particle was embedded on the sonotrode horn contact face, producing a concentrated pressure point while the total horn-face pressure stayed within specification. |
+|Why_02| Why did the localised sub-millimeter over-pressure zone develop?| A hardened thermoplastic particle was embedded on the sonotrode horn contact face, producing a concentrated pressure point while the total horn-face pressure stayed within specification. |
 |Why_03| Why was the particle present on the horn contact face and was not detected?| The Sonotrode was operated continuously for 36 days without intermediate face inspection. Debris accumulated during this window and was not detected.
-|Why_04| Why did the inspection during the affected production window not detect the embedded particle?| The maintenance regime defined two tiers of inspection: monthly visual inspection with manual cleaning performed at production-floor conditions, addressing surface debris and general conditions, and quarterly thorough inspection, including optical microscopy under controlled environment, addressing microscopic failure of the horn. The monthly visual inspection and manual cleaning could not remove the embedded particle anchored in the horn surface. The quarterly inspection was scheduled after the affected production window had already concluded.|
+|Why_04| Why did the inspection during the affected production window not detect the embedded particle?| The maintenance regime defined two tiers of inspection: monthly visual inspection with manual cleaning performed at production-floor conditions, addressing surface debris and general conditions, and quarterly thorough inspection, including optical microscopy under a controlled environment, addressing microscopic failure of the horn. The monthly visual inspection and manual cleaning could not remove the embedded particle anchored in the horn surface. The quarterly inspection was scheduled after the affected production window had already concluded.|
 |Why_05| Why was the quarterly inspection scheduled too late to detect the embedded particle within the affected window? | The quarterly inspection interval was established at the production launch and was based on the launch-era production. By 2023, the production volume had increased to 1.5x. The interval was scheduled on a calendar basis rather than against the accumulated cycle count.|
 
 ### 7.2. Root Cause Summary
@@ -204,9 +205,9 @@ The quarterly thorough inspection interval for sonotrode condition was establish
 
 This constitutes an inspection regime gap under ISO 13485:2016 Clause 7.5.6 (Process Validation), in which the validated process control was not maintained against the production conditions to which it applied.
 
-**Root cause formally accepted:** 
+#### Root cause formally accepted:
 
-On 29.03.2024 by Sarah Müller (QA Manager) and Carlos Rivera (Manufacturing Manager). 
+On 29.03.2024, by Sarah Müller (QA Manager) and Carlos Rivera (Manufacturing Manager). 
 
 ---
 
@@ -214,9 +215,9 @@ On 29.03.2024 by Sarah Müller (QA Manager) and Carlos Rivera (Manufacturing Man
 
 Corrective actions were defined to eliminate the cause of nonconformity on Ultrasonic-weld line UW-02 and to restore the welding process to a validated state. The action plan was approved at Management Review on 12.04.2024.
 
-### Action plan
+#### Action plan
 
-|**#**| **Action** | **Owner** | **Deadline**|**Verification**| **Status**| 
+|#| Action | Owner | Deadline|Verification| Status|
 |---|---|---|---|---|---|
 |CA1| Reface the Sonotrode SN-UW-02-117 to remove the embedded particle and restore the horn surface to qualified condition. Replace if refacing does not return it to specification.| Losa Hartmann, Production Engineer| 31.05.2024| Post-refacing inspection report. Weld trail of 1000 units passing bubble-point and water intrusion test.| Closed| 
 |CA2| Revise SOP-MFG-014 (Sonotrode Maintenance) to add a cycle-based trigger for thorough microscopic inspection and re-establish the interval based on current production volume. New trigger: thorough inspection every 250,000 cycles or 6 weeks, whichever comes first.|Thomas Becker, Quality Engineer| 30.06.2024| Revised SOP release under document control.| Closed| 
@@ -224,7 +225,7 @@ Corrective actions were defined to eliminate the cause of nonconformity on Ultra
 |CA4| Perform process revalidation (IQ/OQ/PQ) of the ultrasonic-welding process under the revised inspection regime.| Hannah Schultz, Process Validation Engineer| 30.09.2024| Approved Process Validation Report| Closed|
 |CA5| Train all the maintenance and production personnel on revised SOP-MFG-014, including the cycle-based trigger and the distinction between surface and embedded particle conditions| Julia Braun, QA specialist| 15.10.2024| Training records signed; competency assessment completed| Closed |
 
-### Implementation verification
+#### Implementation verification
 
 **CA1:** Sonotrode refaced and returned to qualified conditions. Weld trial passed with zero failures across 1000 units.
 
@@ -244,15 +245,15 @@ All corrective actions were completed within the planned implementation window. 
 
 A Preventive Action plan was defined to extend the lessons learned from CAPA-MF-1529 across other MedFluss production processes and to address the underlying QMS conditions that allowed the inspection interval to fall out of step with the production volume. The action plan was approved at Management Review on 02.05.2024.
 
-### Action Plan
+#### Action Plan
 
-|**#**| **Action** | **Owner** | **Deadline**|**Verification**|**Status**| 
+|#| Action | Owner | Deadline|Verification|Status|
 |---|---|---|---|---|---|
 |PA1| Conduct a horizontal review of all wear-part equipment used across MedFluss production lines (sonotrodes, welding-horn, cutting tools, etc.). Reclassify any equipment currently managed under calendar-based preventive maintenance to cycle-based maintenance.| Hannah Schultz, Process Validation Engineer| 30.08.2024| Horizontal review report. Updated asset register.| Closed|
-| PA2 | Establish the requirement for inspection interval for all wear parts using two parallel triggers, calendar-based and cycle-count based, in Process Validation SOP (SOP-QA-004). The inspection is performed whichever trigger occurs first to ensure every inspection and maintenance is tied to actual equipment usage. | Hanna Schultz, Process Validation Engineer | 31.10.2024 | Revised Process Validation SOP released. Existing wear-part inspection intervals reviewed and converted to dual-trigger format| Closed|
+| PA2 | Establish the requirement for inspection interval for all wear parts using two parallel triggers, calendar-based and cycle-count-based, in Process Validation SOP (SOP-QA-004). The inspection is performed whichever trigger occurs first to ensure every inspection and maintenance is tied to actual equipment usage. | Hanna Schultz, Process Validation Engineer | 31.10.2024 | Revised Process Validation SOP released. Existing wear-part inspection intervals reviewed and converted to dual-trigger format| Closed|
 |PA3| Revise the Change Control SOP (SOP-QA-005) to require the update and review of all processes and inspection parameters, including the dual-trigger inspection interval established under PA2, sampling rates, equipment service life estimates, and process control limits to remain within the newly defined specifications.| Thomas Becker, Quality Engineer| 20.11.2024| Revised SOP-QA-005 released explicitly listing updates and review of parameters requiring re-evaluation on scaling events.| Closed|
 
-### Implementation verification
+#### Implementation verification
 
 **PA1:** Horizontal review covered 17 equipment items across 6 production lines. Four additional items were reclassified as wear parts and converted to cycle-based maintenance regimes. 
 
@@ -278,7 +279,7 @@ Each V&V activity was performed by personnel independent of the action owner, in
 
 ### 10.2. Verification of Corrective Actions
 
-|**Action**|**Verification Method**| **Validation Method**| **Independent Reviewer**| **Date**| **Outcome**|
+|Action|Verification Method|Validation Method|Independent Reviewer|Date|Outcome|
 |-|-|-|-|-|-|
 |CA1: Sonotrode refacing| Post-refacing dimensional and surface inspection of horn contact face| 1000 units weld trial with bubble-point and water intrusion testing| Felix Wagner| 26.05.2024| Zero failures across the trial population. Sonotrode returned to qualified condition.
 |CA2: SOP-MFG-014 revision| Document control review of Rev 4. Cycle-count trigger definition check| Cross-reference to activated cycle-counter and SOP-MFG-014 confirmed| Sarah Müller| 27.06.2024| SOP-MFG-014 released under document control.|
@@ -288,7 +289,7 @@ Each V&V activity was performed by personnel independent of the action owner, in
 
 ### 10.3. Verification of Preventive Actions
 
-|**Action**|**Verification Method**| **Validation Method**| **Independent Reviewer**| **Date**| **Outcome**|
+|Action|Verification Method|Validation Method|Independent Reviewer|Date|Outcome|
 |-|-|-|-|-|-|
 |PA1: Horizontal review of wear-part equipment| Independent review of updated asset register and revised maintenance SOP| Reclassification of all equipment traced to CAPA-MF-1529 root cause for each reclassified item| Felix Wagner| 22.12.2024| Horizontal review report approved. Four items were reclassified and converted to a dual-trigger regime.|
 |PA2: SOP-QA-004 revision| Document control review of dual-trigger re-evaluation requirement in Rev 3| Existing wear-part intervals confirmed and converted to dual-trigger structure.| Sarah Müller| 19.11.2024| SOP-QA-004 released under document control|
@@ -298,11 +299,13 @@ Each V&V activity was performed by personnel independent of the action owner, in
 
 The revalidation of the ultrasonic-welding process under SOP-QA-004 covered three sequential qualification stages completed between 26.07.2024 and 27.09.2024.
 
-**Installation Qualification (IQ):** Verified that the refaced sonotrode, the activated cycle counter on lines UW-02 and UW-04, and the supporting welder controller software were installed and configured against approved specifications. Calibration certificates were current, utility connections were correct, and software versions matched the configuration baseline.
+**Installation Qualification (IQ):** Verified that the refaced sonotrode SN-UW-02-117 and the supporting welder controller software on UW-02 were installed and configured against approved specifications. Calibration certificates were current, utility connections were correct, and software versions matched the configuration baseline. The activated cycle counters on UW-02 and UW-04 were separately verified against the approved specifications as part of the revised inspection regime. UW-04 remained the qualified backup welding line used during containment.
 
-**Operational Qualification (OQ):** Demonstrated that the Ultrasonic-welding process on the lines UW-02 and UW-04 operated within defined parameters across its full operating range. Weld energy, trigger force, weld time, and hold time were tested at low, nominal, and high settings, with alarms and interlocks confirmed. The revised inspection regime of monthly visual inspection with manual cleaning and dual-trigger regime of 250,000 cycles or 6 weeks of microscopic inspection was exercised with deliberately introduced sub-mm particles, confirming that the thorough inspection step reliably detected the failure mode at its actual scale.
+**Operational Qualification (OQ):** Demonstrated that the ultrasonic-welding process on UW-02 operated within defined parameters across its full operating range following sonotrode refacing. Weld energy, trigger force, weld time, and hold time were tested at low, nominal, and high settings, with alarms and interlocks confirmed. UW-04, which served as the backup welding line during containment, was not subject to corrective process revalidation. Its activated cycle counter and compliance with the revised inspection regime were verified separately under CA2. The revised inspection regime, consisting of monthly visual inspection with manual cleaning and thorough microscopic inspection after 250,000 cycles or six weeks, whichever came first, was evaluated by deliberately introducing a sub-millimetre particle under controlled test conditions. The test confirmed that the thorough microscopic inspection reliably detected the identified failure mode at its actual scale.
 
-**Performance Qualification (PQ):** Comprised of three consecutive production runs under the revised regime, each of 10,000 units. Weld parameters were monitored continuously and subjected to process control analysis. Post-weld integrity testing confirmed 100% in-line pressure decay plus bubble-point on the AQL sample, which recorded zero defects across all three runs. The validation report was issued on 27.09.2024 and reviewed by Felix Wagner before release.
+**Performance Qualification (PQ):** Comprised three consecutive production runs on UW-02 under the revised inspection regime, each consisting of 10,000 units. Weld parameters were monitored continuously and subjected to statistical process control analysis. Post-weld integrity testing included 100% in-line pressure-decay testing and bubble-point testing on AQL samples, with zero defects recorded across all three runs. The validation report was issued on 27.09.2024 and reviewed by Felix Wagner before release.
+
+**Return to Routine Production:** Following successful completion of IQ/OQ/PQ and QA approval, UW-02 was released for routine production. Production was transferred back from the qualified backup welding line UW-04 to UW-02 on 15.10.2024, following completion of the required operator training. UW-04 was returned to standby status and remained available as a qualified backup welding line.
 
 ### 10.5. Verification and Validation Sign-off
 
@@ -320,7 +323,7 @@ All corrective and preventive actions in this CAPA were verified for procedural 
 
 The following criteria were defined at CAPA opening and reconfirmed at Management Review on 12.04.2024. The CAPA could only be closed when all the criteria were met within the surveillance window.
 
-|**#**| **Criteria**| **Threshold**| **Result**| **Status**|
+|#|Criteria|Threshold|Result|Status|
 |---|---|---|---|---|
 |EC1| No recurrence of the membrane micro-puncture defect on the revised process.| Zero confirmed cases related to the affected product| Zero confirmed cases over 90-day window.| Met|
 |EC2| No complaints of air-vent leakage on MF-INF-SVIF-200 in the surveillance window.| Zero new complaints related to the affected product| Zero complaints related to air-vent leakage on MF-INF-SVIF-200. Complaint volume returned to baseline for the product family.| Met|
@@ -330,25 +333,26 @@ The following criteria were defined at CAPA opening and reconfirmed at Managemen
 |EC6| No expansion of FSCA scope (no affected lots identified).|Affected lot range remains unchanged from MF-2023-F036 to MF-2023-F071| No additional affected lots identified. FSCA scope remained unchanged.|Met|
 |EC7| Horizontal preventive actions effective across all other product lines.|No related issues identified in other reclassified equipment| No new issues identified across four reclassified equipment on other production lines.|Met|
 
-### Surveillance Period and Methods
+#### Surveillance Period and Methods
 
-Routine production resumed under the revised regime and SOPs on 15.10.2024, following completion of training under CA5. The effectiveness surveillance period was set to 90 days from the date, concluding on 13.01.2025. The surveillance combined six independent monitoring activities:
+Following successful completion of process revalidation and the required operator training under CA5, routine production was transferred back from the qualified backup welding line UW-04 to UW-02 on 15.10.2024. Production continued under the revised inspection and maintenance regime and updated SOPs. The effectiveness surveillance period was set to 90 days from this date, concluding on 13.01.2025. The surveillance combined six independent monitoring activities:
+
 1. Daily complaint monitoring for MF-INF-SVIF-200 through the complaint handling system managed by Anna Schmidt, CA Manager.
 2. Weekly review of production parameter logs and statistical process control charts, handled by Hanna Schultz, Process Validation Engineer.
 3. Monthly review of cycle counter logs and reconciliation with welder control data, supervised by Carlos Rivera, Manufacturing Manager.
 4. Internal audits of revised SOPs (SOP-MFG-014: Rev 4, SOP-QA-004: Rev 3, SOP-QA-005: Rev 6) conducted on 10.12.2024 by Felix Wagner, QA Auditor.
-5. First cycle count triggered a thorough microscopic inspection of sonotrode SN-UW-02-117, performed on 12.11.2024 at an accumulated cycle count of 249,800 cycles, confirming sonotrode conditions within specifications.
+5. The first cycle count triggered a thorough microscopic inspection of sonotrode SN-UW-02-117, performed on 12.11.2024 at an accumulated cycle count of 249,800 cycles, confirming sonotrode conditions within specifications.
 6. Continued Horizontal review of reclassified wear-part equipment across other production lines.
 
-### Conclusion
+#### Conclusion
 
 All seven effectiveness criteria were met within the 90-day surveillance window. The corrective actions removed the immediate condition on Sonotrode SN-UW-02-117 and re-established the validated state of the welding process. The preventive actions established a QMS-wide requirement for dual-trigger inspection intervals for applicable wear-part equipment. The horizontal review identified four additional equipment items requiring conversion to the dual-trigger maintenance regime. Furthermore, the revised Change Control SOP requires the re-evaluation of relevant process and inspection parameters whenever production volume increases.
 
 The root cause has been eliminated, the process has been restored to a validated state, and no recurrence of failure has been observed.
 
-### Sign-off
+#### Sign-off
 
-|**Role**|**Name**|**Date**|
+|Role|Name|Date|
 |---|---|---|
 |Effectiveness verified by (independent)| Felix Wagner, Quality Auditor| 14.01.2025|
 |QA approval| Sarah Müller, QA Manager| 15.01.2025|
@@ -362,7 +366,7 @@ All documents created, revised, or formally referenced under CAPA-MF-1529 were a
 
 ### 12.1. Documents Created
 
-|**Document**|**Reference**|**Date**|**Owner**|
+|Document|Reference|Date|Owner|
 |--|--|--|--|
 |CAPA Record|CAPA-MF-1529| 12.02.2024|Thomas Becker, Quality Engineer|
 |Distribution Hold Notice| DH-2024-003| 14.02.2024|Priya Nair, RA Manager|
@@ -373,7 +377,7 @@ All documents created, revised, or formally referenced under CAPA-MF-1529 were a
 
 ### 12.2. Documents Revised
 
-|**Document**|**From**|**To**|**Released**|**Owner**|
+|Document|From|To|Released|Owner|
 |--|--|--|--|--|
 |SOP-MFG-014: Sonotrode Maintenance| Rev 3|Rev 4| 21.06.2024 |Thomas Becker, Quality Engineer|
 |SOP-QA-004: Process Validation |Rev 2 |Rev 3 | 14.11.2024 |Hannah Schultz, Process Validation Engineer |
